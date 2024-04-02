@@ -1,0 +1,59 @@
+.img-log{
+  width: 300px;
+  margin: 0 auto;
+  display: block;
+}
+
+h1{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-weight: lighter;
+  text-align: center;
+  color: #C05497;
+  letter-spacing: 10px;
+  margin-bottom: 30px;
+}
+
+h2{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-weight: lighter;
+  color: #C05497;
+  letter-spacing: 7px;
+  font-size: 20px;
+
+}
+.img-pop-c{
+  float: right;
+  width: 370px;
+  margin-left: 10px;
+}
+
+p{
+  color: #7289BE;
+  line-height: 20px;
+}
+
+.img-resort{
+  float: left;
+  width: 370px;
+  margin-right: 10px;
+}
+
+#animal-kingdom{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-weight: lighter;
+  color: #C05497;
+  letter-spacing: 7px;
+  font-size: 20px;
+  text-align: center;
+}
+
+.img-animal-kg{
+  float: right;
+  width: 400px;
+  margin-left: 10px;
+}
+
+.img-main{
+  width: 100%;
+  height: auto;
+}

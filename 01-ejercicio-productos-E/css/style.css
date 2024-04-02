@@ -1,0 +1,100 @@
+body{
+  background-color: #333a42;
+}
+
+h1{
+  
+  background-color: white;
+  color: #6d7a8a;
+  font-family: Impact, Charcoal, sans-serif;
+  padding: 5px;
+  text-align: center;
+  font-size: 50px;
+
+}
+
+p{
+  color: #D0D8D2;
+  font-family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
+  font-size: 15px;
+  text-align: justify;
+}
+
+
+#aspiradoras{
+  color: #EBD0C5;
+  font-family: Arial, Gadget, sans-serif ;
+  text-transform: uppercase;
+  font-weight: 1000;
+}
+
+#aspiradoras::first-letter{
+  font-size: larger;
+}
+
+.img_aspiradora{
+  border: 5px solid #EBD0C5;
+  margin-left: 45px;
+}
+
+#celulares {
+  color: #ABC8CC;
+  font-family: Arial, Gadget, sans-serif;
+  text-transform: uppercase;
+  font-weight: 1000;
+}
+#celulares::first-letter{
+  font-size: larger;
+}
+.img_celular{
+  border: 5px solid #ABC8CC;
+  margin-left: 45px;
+}
+
+#consolas{
+  color: #D8D9DB;
+  font-family: Arial, Gadget, sans-serif;
+  text-transform: uppercase;
+  font-weight: 1000;
+}
+#consolas::first-letter{
+  font-size: larger;
+}
+.img_consola{
+  border: 5px solid #D8D9DB;
+  margin-left: 45px;
+}
+
+#teatro_casa{
+  color: #D8D9DB;
+  font-family: Arial, Gadget, sans-serif;
+  text-transform: uppercase;
+  font-weight: 1000;
+}
+
+#teatro_casa::first-letter{
+  font-size: larger;
+}
+
+.img_teatro{
+  border: 5px solid #D8D9DB;
+  margin-left: 45px;
+  width: 500px;
+  height: 146px;
+}
+
+#televisores{
+  color: #B2B2AA;
+  font-family: Arial, Gadget, sans-serif;
+  font-weight: 1000;
+  text-transform: uppercase;
+}
+
+#televisores::first-letter{
+  font-size: larger;
+}
+
+.img_televisor{
+  border: 5px solid #B2B2AA;
+  margin-left: 45px;
+}
